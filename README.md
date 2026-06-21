@@ -22,15 +22,15 @@ Restart Zed or reload extensions.
 
 ### Solace
 
-![Solace](preview/editor_1.png)
-![Solace](preview/editor_2.png)
-![Solace](preview/term.png)
+![Solace](preview/dark1.png)
+![Solace](preview/dark2.png)
+![Solace](preview/dark3.png)
 
 ### Solace Light
 
-![Solace](preview/editor_light1.png)
-![Solace](preview/editor_light2.png)
-![Solace](preview/editor_light_term.png)
+![Solace Light](preview/light1.png)
+![Solace Light](preview/light2.png)
+![Solace Light](preview/light3.png)
 
 ## License
 
