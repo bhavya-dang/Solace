@@ -1,0 +1,12 @@
+id = "solace"
+name = "Solace"
+version = "0.1.0"
+schema_version = 1
+
+authors = ["Bhavya Dang"]
+
+description = "A minimalistic theme with lavender accents and pastel syntax."
+
+repository = "https://github.com/bhavya-dang/Solace"
+
+themes = ["themes/solace.json"]
