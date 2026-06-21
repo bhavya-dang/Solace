@@ -32,9 +32,6 @@ Restart Zed or reload extensions.
 ![Solace Light](preview/light2.png)
 ![Solace Light](preview/light3.png)
 
-## License
-
-MIT
 
 ## Contributing
 
