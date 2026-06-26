@@ -7,16 +7,23 @@ Solace pairs deep violet backgrounds with soft lavender accents and muted pastel
 
 ## Installation
 
-Open Zed and install **Solace** from the extensions marketplace.
-
-You can also install it manually:
+### Option A — Install script (recommended)
 
 ```sh
-git clone https://github.com/bhavya-dang/Solace \
-  ~/.config/zed/extensions/solace
+curl -fsSL https://raw.githubusercontent.com/bhavya-dang/Solace/master/scripts/install.sh | sh
 ```
 
-Restart Zed or reload extensions.
+
+
+### Option B — Clone the repo
+
+```sh
+git clone https://github.com/bhavya-dang/Solace
+cd Solace
+cp themes/solace.json ~/.config/zed/themes/
+```
+
+Restart Zed or reload the theme selector (Cmd+Shift+P → "theme selector: toggle").
 
 ## Screenshots
 
