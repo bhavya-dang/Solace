@@ -4,7 +4,6 @@ A minimal Zed theme with violet undertones and pastel syntax.
 
 Solace pairs deep violet backgrounds with soft lavender accents and muted pastel syntax colors for a calm, focused work experience. Available in **Dark** and **Light** variants.
 
-
 ## Installation
 
 ### Option A — Install script (recommended)
@@ -12,8 +11,6 @@ Solace pairs deep violet backgrounds with soft lavender accents and muted pastel
 ```sh
 curl -fsSL https://raw.githubusercontent.com/bhavya-dang/Solace/master/scripts/install.sh | sh
 ```
-
-
 
 ### Option B — Clone the repo
 
@@ -29,16 +26,15 @@ Restart Zed or reload the theme selector (Cmd+Shift+P → "theme selector: toggl
 
 ### Solace
 
-![Solace](preview/dark1.png)
-![Solace](preview/dark2.png)
-![Solace](preview/dark3.png)
+![Solace](preview/dark1.webp)
+![Solace](preview/dark2.webp)
+![Solace](preview/dark3.webp)
 
 ### Solace Light
 
-![Solace Light](preview/light1.png)
-![Solace Light](preview/light2.png)
-![Solace Light](preview/light3.png)
-
+![Solace Light](preview/light1.webp)
+![Solace Light](preview/light2.webp)
+![Solace Light](preview/light3.webp)
 
 ## Contributing
 
