@@ -1,8 +1,8 @@
 # Solace
 
-A minimalistic theme with violet accents and pastel syntax.
+A minimal Zed theme with violet undertones and pastel syntax.
 
-Solace is a carefully balanced theme for Zed that combines deep violet backgrounds, soft lavender accents, and pastel syntax colors.
+Solace pairs deep violet backgrounds with soft lavender accents and muted pastel syntax colors for a calm, focused work experience. Available in **Dark** and **Light** variants.
 
 
 ## Installation
